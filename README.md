@@ -1,7 +1,7 @@
 # Handwritten Digits Classification
 
 ## Introduction
-builded a machine learning model to classify handwritten digits into the correct digit class they belong to. MNIST is a dataset consisting of a collection of 28x28 grayscale images of handwritten digits (0 through 9) along with their corresponding labels.
+A machine learning model to classify handwritten digits into the correct digit class they belong to. MNIST is a dataset consisting of a collection of 28x28 grayscale images of handwritten digits (0 through 9) along with their corresponding labels.
 
 ## Dataset
 The MNIST dataset is loaded using TensorFlow's Keras API. It contains 60,000 training images and 10,000 test images. Each image is a single-channel (grayscale) image with pixel values representing the intensity of the pixels.
