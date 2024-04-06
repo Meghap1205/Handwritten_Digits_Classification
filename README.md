@@ -1,4 +1,4 @@
-# MNIST Handwritten Digits Classification
+# Handwritten Digits Classification
 
 ## Introduction
 This repository contains code to explore the MNIST dataset and build a machine learning model to classify handwritten digits into the correct digit class they belong to. MNIST is a dataset consisting of a collection of 28x28 grayscale images of handwritten digits (0 through 9) along with their corresponding labels.
